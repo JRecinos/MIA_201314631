@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1471051472 source:/home/jorge/Escritorio/2S 2016/MIA/ProyectoUnico_201314631/main.c
+	<stdio.h>
+	<ctype.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<time.h>
+	<stdlib.h>
+
